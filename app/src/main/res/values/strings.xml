@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SurveyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ask_for_question">Please enter a yes no question for a survey.</string>
+    <string name="ask_for_button_text">Then enter the choices of your question for the button text</string>
+    <string name="enter_question">Enter Question</string>
+    <string name="choice1">Choice 1</string>
+    <string name="choice2">Choice 2</string>
+    <string name="continue_button">Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="results_button">Results</string>
+    <string name="reset">Reset</string>
+</resources>
